@@ -1,5 +1,5 @@
 import osascript
-import constants
+from . import constants
 
 def clamp(value, min_value, max_value):
     """Clamp the value between min_value and max_value."""
