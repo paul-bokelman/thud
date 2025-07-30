@@ -1,0 +1,10 @@
+[project]
+name = "thud"
+version = "0.1.0"
+description = "Reactively change volume based on typing speed"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "osascript>=2020.12.3",
+    "pynput>=1.8.1",
+]
