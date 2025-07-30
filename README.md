@@ -1,6 +1,6 @@
 # Thud
 
-Reactively change volume based on typing speed to induce flow state
+Reactively change volume based on typing speed to induce flow state. Thud is built for programmers that listen to music while coding, aiming to enhance focus by adjusting the volume based on typing speed.
 
 Usage:
 
